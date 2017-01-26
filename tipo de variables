@@ -12,3 +12,5 @@ unsigned long k 3753159;
 /*todas estas variables se conocen como variables globales:
 las variables globales son aquellas que existen en TODO
 el programa, es la misma en cada funcion o subrutina*/
+void main() 
+int z = 
