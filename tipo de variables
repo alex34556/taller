@@ -1,0 +1,14 @@
+bit a;
+char b = 'k';
+char x = 0b01111000;
+int d = 123;
+int e = -43;
+unsigned int f = 456;
+unsigned int g = -14; //esto no se puede porque este tipo de dato no tiene signo
+short h = 0*43; //el tipo de dato short varia de -128 a 127;
+unsigned short i = 0*16; //no puedo declarar valores negativos
+long j = 1436789;
+unsigned long k 3753159;
+/*todas estas variables se conocen como variables globales:
+las variables globales son aquellas que existen en TODO
+el programa, es la misma en cada funcion o subrutina*/
